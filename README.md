@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there 👋
+
+
+![Anurag's GitHub stats](https://github-readme-stats-wine-mu-69.vercel.app/api?username=chris-sj-bartley&count_private=true&show_icons=true&theme=blueberry)  
+[![Top Langs](https://github-readme-stats-wine-mu-69.vercel.app/api/top-langs/?username=chris-sj-bartley&layout=compact&theme=blueberry&hide=javascript,html,css)](https://github.com/chris-sj-bartley/github-readme-stats)
+
+![trophy](https://github-profile-trophy-theta-liard.vercel.app/?username=chris-sj-bartley&theme=onedark)
 
 <!--
 **chris-sj-bartley/chris-sj-bartley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
